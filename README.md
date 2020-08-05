@@ -30,7 +30,7 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mandathompson&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mandathompson&show_icons=true&hide_border=true&theme=dracula" />
 
 [website]: https://www.amanda-thompson-developer.com/
 [linkedin]: https://www.linkedin.com/in/amanda-r-thompson/
