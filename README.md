@@ -1,7 +1,7 @@
 ### Hi! I'm [Amanda][website]!
 
 ## I'm a mom of three, avid reader and gamer, and full stack developer!
-- I'm currently learning Node
+- I'm currently learning React
 - 2020 Goals: survive the rest of the apocalypse and learn Typescript
 - The new Fable reboot looks like it will be amazing
 
