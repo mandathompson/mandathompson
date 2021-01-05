@@ -1,9 +1,9 @@
 ### Hi! I'm [Amanda][website]!
 
 ## I'm a mom of three, avid reader and gamer, and full stack developer!
-- I'm currently learning Gatsby
-- 2020 Goals: survive the rest of the apocalypse and learn Typescript
-- The new Fable reboot looks like it will be amazing
+- I'm currently learning Gatsby in my "free" time, which I don't have much of
+- 2021 Goals: learn Typescript, master Django and React
+- Immortals Fenyx Rising is badass
 
 ### Connect with me:
 
