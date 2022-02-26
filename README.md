@@ -1,10 +1,10 @@
 ### Hi! I'm [Amanda][website]!
 
 ## I'm a mom of three, avid reader and gamer, and full stack developer!
-- I'm currently learning Gatsby in my "free" time, which I don't have much of
-- 2021 Goals: learn Typescript, master Django and React
-- Immortals Fenyx Rising is badass
-
+- I want to learn more about cyber security
+- 2022 Goals: spend more time focused on personal projects and learning
+- I've been playing Uncharted and Fable 2 again, for nostalgia
+- 
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
