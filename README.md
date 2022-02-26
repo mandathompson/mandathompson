@@ -4,7 +4,7 @@
 - I want to learn more about cyber security
 - 2022 Goals: spend more time focused on personal projects and learning
 - I've been playing Uncharted and Fable 2 again, for nostalgia
-- 
+
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
